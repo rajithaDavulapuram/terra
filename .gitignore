@@ -1,0 +1,8 @@
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate*
+*.tfvars
+secrets.txt
+
+git config --global user.name "John Doe"
+$ git config --global user.email rajithareddy434@gmail.com
